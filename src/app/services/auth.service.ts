@@ -35,15 +35,15 @@ export class AuthService {
   }
 
   async login() {
-
+    // TODO 1: Implement the login using Firebase Authentication
   }
 
   async logout() {
+    // TODO 2: Implement the logout using Firebase Authentication
 
   }
 
-  // Save the user data to firestore on login
   private updateUserData(user) {
-
+    // TODO 3: Implement the update user using Firebase Authentication
   }
 }
